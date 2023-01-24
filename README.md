@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frkanyilmaz2
 - 👀 I’m interested in being a software developer
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning React
 - 📫 How to reach me: furkaan70@hotmail.com
 
 <!---
